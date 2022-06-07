@@ -18,5 +18,5 @@ Made some changes to facilitate API access and usage.
 
 ## Lessons Learned:
 
-Building an API presents some several challenges, one of these challenges is gathering data in an ethical and legal manner. The time I spent dealing with the data aspect of this project has given me a new outlook on data and how to manage it.
+Building an API presents several challenges, one of these challenges is gathering data in an ethical and legal manner. The time I spent dealing with the data aspect of this project has given me a new outlook on data and how to manage it.
 
