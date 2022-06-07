@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    width: auto;
+    height: auto;
+    font-size: 62.5%;
+}
+body {
+    font-size: 2rem;
+    font-family: 'roboto', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0 15%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKftbDy9CoqkegVlJ-yPPMSzqmHo6k73hKg&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
