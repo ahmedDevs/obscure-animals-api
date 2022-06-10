@@ -40,8 +40,8 @@ const species = {
     },
         'penis snake': {
         'scientific name': 'Atretochoana eiselti',    
-        description: 'Named after the human penis owing to its resemblance. The penis snake was first discovered in Brizil. Around 32 inches long, not much is known about this snake besides the fact that they feed on small fish and worms.',
-        'geographical origin': 'Brizillian Amazon',
+        description: 'Named after the human penis owing to its resemblance. The penis snake was first discovered in Brazil. Around 32 inches long, not much is known about this snake besides the fact that they feed on small fish and worms.',
+        'geographical origin': 'Brazillian Amazon',
         image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Atretochoana_eiselti.jpg',
         copyright: 'The image here, is from wikimedia. Under the creative commons license.'       
     },
