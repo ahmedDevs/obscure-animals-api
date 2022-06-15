@@ -7,7 +7,7 @@ An API for obscure animals. This API returns objects with animal species that ar
 
 **Tech Used:** Node.js, Express, JavaScript, CSS, HTML
 
-I've always enjoyed making software, and I've always been intrigued by animals. Combining these interests to make something devleopers can use is a worthy endeavour.
+I've always enjoyed making software, and I've always been intrigued by animals. Combining these interests to make something developers can use is a worthy endeavour.
 
 
 
